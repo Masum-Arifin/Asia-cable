@@ -1,0 +1,43 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    background-color:#d4d3d3;
+}
+.ac{
+    text-align: center;
+    font-style: italic;
+    font-size:80px;
+    color: rgba(252, 252, 252, 0.945);
+    background-color: #145D8A;
+ }  
+   
+.all{
+   background-color: rgb(38, 136, 68);
+   color: rgb(15, 9, 63);
+   text-align: center;
+   font-style: italic;
+   }
+.nav-asia{
+    padding-left: 260px;
+}
+.con{
+    text-align: center;
+}
+.cer1{
+    text-align: center;
+}
+.cer{
+    text-align: center;
+    color: gray;
+}
+.footer-text{
+    color: rgb(24, 6, 100);
+    text-align: center;
+    font-style: italic;
+}
+#cab{
+    color: rgb(19, 4, 161);
+  padding: 5px 250px;
+  padding-top: 50px;
+}
+© 
